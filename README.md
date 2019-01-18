@@ -7,6 +7,8 @@ Information about genomic data science.
 - [Tree based machine learning framework for predicting ground state energies of molecules ](https://arxiv.org/abs/1609.07124) 
 by Burak Himmetoglu.  We present an application of the boosted regression tree algorithm for predicting ground state energies of molecules made up of C, H, N, O, P, and S (CHNOPS). The PubChem chemical compound database has been incorporated to construct a dataset of 16,242 molecules, whose electronic ground state energies have been computed using density functional theory.
 
+## Data Sets
+- [Google genomics data sets](https://cloud.google.com/genomics/docs/public-datasets/) Cloud Genomics provides a variety of public datasets that you can access for free and integrate into your applications. Google hosts these datasets, providing public access to the data.
 
 ## Companies
 
