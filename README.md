@@ -11,6 +11,7 @@ by Burak Himmetoglu.  We present an application of the boosted regression tree a
 - [Google genomics data sets](https://cloud.google.com/genomics/docs/public-datasets/) Cloud Genomics provides a variety of public datasets that you can access for free and integrate into your applications. Google hosts these datasets, providing public access to the data.
 
 ## Software
+[HCA](https://mloss.org/software/title/?page=11) Multi-core non-parametric and bursty topic models (HDP-LDA, DCMLDA, and other variants of LDA) implemented in C using efficient Gibbs sampling, with hyperparameter sampling and other flexible controls.
 
 ## Companies
 
