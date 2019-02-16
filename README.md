@@ -7,6 +7,33 @@ by Dimitris Anastassiou. Genomic information is digital in a very real sense; it
 represented in the form of sequences of which each element
 can be one out of a finite number of entities. 
 
+- [Deep Learning for Genomics: A Concise Overview](https://arxiv.org/pdf/1802.00810.pdf) Tianwei Yue tyue@andrew.cmu.edu
+Haohan Wang haohanw@cs.cmu.edu
+School of Computer Science
+Carnegie Mellon University
+Pittsburgh, PA 15213, USA
+Abstract
+This data explosion driven by advancements in genomic research, such as high-throughput
+sequencing techniques, is constantly challenging conventional methods used in genomics.
+In parallel with the urgent demand for robust algorithms, deep learning has succeeded
+in a variety of fields such as vision, speech, and text processing. Yet genomics entails
+unique challenges to deep learning since we are expecting from deep learning a superhuman
+intelligence that explores beyond our knowledge to interpret the genome. A powerful deep
+learning model should rely on insightful utilization of task-specific knowledge. In this
+paper, we briefly discuss the strengths of different deep learning models from a genomic
+perspective so as to fit each particular task with a proper deep architecture, and remark on
+practical considerations of developing modern deep learning architectures for genomics. We
+also provide a concise review of deep learning applications in various aspects of genomic
+research, as well as pointing out current challenges and potential research directions for
+future genomics applications.
+
+
+- [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5.epdf?no_publisher_access=1&r3_referer=nature) Behind paywall. Associated with colabratory notebook:
+  - [A Primer on Deep Learning in Genomics - Public.ipynb](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr#scrollTo=eiiwjw4yhX0P)
+
+- [Genome Functional Annotation using Deep Convolutional
+Neural Network](https://www.biorxiv.org/content/biorxiv/early/2018/05/25/330308.full.pdf)
+
 ## Subject definitions
 
 - [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology): Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
