@@ -1,6 +1,6 @@
 # genomics-study-group
 
-This is a self-study guide for learning genomic signal processing. Before we can learn GSP, we must understand the foundations of information theory and sequential sequence procesing- the fundamentals upon which genomic data science is based. Research is led by Rich Gorham, data sceince documentation is done by Cindy Brillantios, and I am the project manager who serves with pleasure. -Mike
+This is a self-study guide for learning genomic signal processing. Before we can learn GSP, we must understand the foundations of information theory and sequential sequence procesing- the fundamentals upon which genomic data science is based.
 
 # Start here
 Information about genomic data science. Start with:
