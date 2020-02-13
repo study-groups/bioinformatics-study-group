@@ -11,8 +11,14 @@ This course is an introduction to computational biology emphasizing the fundamen
 
 ## Papers
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
- 
+
+## Online class
+- [Fundamental Algorithms in Deep Sequencing I](http://bioinformaticsalgorithms.com/)
+- [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis)
+
+
 ## Current Reading list, Summer 2019
+
 - [IEEE Spectrum article: Genomics Signal Processing](https://pdfs.semanticscholar.org/eb87/1f4b1840e9357a78df2a1809161dbbee4796.pdf): 
 by Dimitris Anastassiou. Genomic information is digital in a very real sense; it is
 represented in the form of sequences of which each element
