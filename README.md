@@ -12,10 +12,10 @@ This course is an introduction to computational biology emphasizing the fundamen
 ## Papers
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
 
-## Online class
+## Resources
 - [Fundamental Algorithms in Deep Sequencing I](http://bioinformaticsalgorithms.com/)
-- [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis)
-
+- [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
+- [Rosalind](http://rosalind.info/problems/locations): Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
 ## Current Reading list, Summer 2019
 
@@ -65,8 +65,8 @@ by Burak Himmetoglu.  We present an application of the boosted regression tree a
 - [Google genomics data sets](https://cloud.google.com/genomics/docs/public-datasets/) Cloud Genomics provides a variety of public datasets that you can access for free and integrate into your applications. Google hosts these datasets, providing public access to the data.
 
 ## Software
-[HCA](https://mloss.org/software/title/?page=11) Multi-core non-parametric and bursty topic models (HDP-LDA, DCMLDA, and other variants of LDA) implemented in C using efficient Gibbs sampling, with hyperparameter sampling and other flexible controls.
+- [HCA](https://mloss.org/software/title/?page=11) Multi-core non-parametric and bursty topic models (HDP-LDA, DCMLDA, and other variants of LDA) implemented in C using efficient Gibbs sampling, with hyperparameter sampling and other flexible controls.
 
 ## Companies
 
-[Tempus](https://www.tempus.com/) Tempus is a technology company that has built the world’s largest library of clinical and molecular data and an operating system to make that data accessible and useful, starting with cancer. Our goal is for each patient to benefit from the treatment of others who came before.
+- [Tempus](https://www.tempus.com/) Tempus is a technology company that has built the world’s largest library of clinical and molecular data and an operating system to make that data accessible and useful, starting with cancer. Our goal is for each patient to benefit from the treatment of others who came before.
