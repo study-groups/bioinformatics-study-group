@@ -5,11 +5,15 @@ This is a self-study guide for learning genomic signal processing. Before we can
 # Start here
 Information about genomic data science. Start with:
 - MIT Open Courseware's [Foundations of Computational And-Systems Biology, Spring 2014](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/index.htm). 
-This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas.
-
-  - [Video Lectures](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas. [Video Lectures](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
 
 ## Papers
+
+- [Evaluating Protein Transfer Learning with TAPE](https://www.biorxiv.org/content/10.1101/676825v1): by Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song. 
+Protein modeling is an increasingly popular area of machine learning research. Semi-supervised learning has emerged as an important paradigm in protein modeling due to the high cost of acquiring supervised protein labels, but the current literature is fragmented when it comes to datasets and standardized evaluation techniques. To facilitate progress in this field, we introduce the Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology. We curate tasks into specific training, validation, and test splits to ensure that each task tests biologically relevant generalization that transfers to real-life scenarios. We bench-mark a range of approaches to semi-supervised protein representation learning, which span recent work as well as canonical sequence learning techniques. We find that self-supervised pretraining is helpful for almost all models on all tasks, more than doubling performance in some cases. Despite this increase, in several cases features learned by self-supervised pretraining still lag behind features extracted by state-of-the-art non-neural techniques. This gap in performance suggests a huge opportunity for innovative architecture design and improved modeling paradigms that better capture the signal in biological sequences. TAPE will help the machine learning community focus effort on scientifically relevant problems. Toward this end, all data and code used to run these experiments are available at [tape repo](https://github.com/songlab-cal/tape).
+
+
+
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
 
 ## Videos
@@ -20,16 +24,13 @@ This course is an introduction to computational biology emphasizing the fundamen
 
 ## Resources
 
-### Bioinformatics as taught by Conpeau and Pevzner
-
 - [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
    - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
    - [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
   
-
 - [Rosalind](http://rosalind.info/problems/locations): Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
-## Current Reading list, Summer 2019
+## Current Reading list, Summer 2020
 
 - [IEEE Spectrum article: Genomics Signal Processing](https://pdfs.semanticscholar.org/eb87/1f4b1840e9357a78df2a1809161dbbee4796.pdf): 
 by Dimitris Anastassiou. Genomic information is digital in a very real sense; it is
