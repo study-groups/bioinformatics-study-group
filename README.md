@@ -4,12 +4,13 @@ This is a self-study guide for learning genomic signal processing. Before we can
 
 
 ## Subject definitions
-- [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Owing to the defining role of DNA in the production of mRNA, the structural characterization of DNA is inevitably a part of GSP and, interestingly, signal processing methods are utilized in understanding DNA structure.
-
 - [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology): Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
 
 - [Genomics wikipedia](https://en.wikipedia.org/wiki/Genomics) Genomics is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules.
 
+- [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Owing to the defining role of DNA in the production of mRNA, the structural characterization of DNA is inevitably a part of GSP and, interestingly, signal processing methods are utilized in understanding DNA structure.
+
+- [Glossary of Next Gen Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html): terms used in in NGS. Video overview: [NGS for beginners](https://www.illumina.com/science/technology/next-generation-sequencing/beginners.html).
 
 ## Videos
 
@@ -21,7 +22,7 @@ This is a self-study guide for learning genomic signal processing. Before we can
 # Start here for serious study
 
 - MIT Open Courseware's [Foundations of Computational And-Systems Biology, Spring 2014](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/index.htm). 
-This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas. [Video Lectures](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
+This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas. [Video Lectures from Spring 2014 at MIT](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/).
 
 ## Papers
 
@@ -65,9 +66,7 @@ future genomics applications.
 - [A primer on deep learning in genomics](./zou2018primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
 sets. Here, we provide a perspective and primer on deep learning applications for genome analysis. We discuss successful
 applications in the fields of regulatory genomics, variant calling and pathogenicity scores. We include general guidance for how
-to effectively use deep learning methods as well as a practical guide to tools and resources. This primer is accompanied by an
-interactive online tutorial.
-
+to effectively use deep learning methods as well as a practical guide to tools and resources. This primer is accompanied by an interactive online tutorial.
 
   - Associated with colabratory notebook:[A Primer on Deep Learning in Genomics - Public.ipynb](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr#scrollTo=eiiwjw4yhX0P)
 
