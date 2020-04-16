@@ -2,8 +2,14 @@
 
 This is a self-study guide for learning genomic signal processing. Before we can learn GSP, we must understand the foundations of information theory and sequential sequence procesing- the fundamentals upon which genomic data science is based.
 
+
+## Subject definitions
+
+- [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology): Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
+
+- [Genomics wikipedia](https://en.wikipedia.org/wiki/Genomics) Genomics is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules.
+
 # Start here
-Information about genomic data science. Start with:
 - MIT Open Courseware's [Foundations of Computational And-Systems Biology, Spring 2014](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/index.htm). 
 This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas. [Video Lectures](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
 
@@ -15,6 +21,10 @@ Protein modeling is an increasingly popular area of machine learning research. S
 
 
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
+
+- [Tree based machine learning framework for predicting ground state energies of molecules ](https://arxiv.org/abs/1609.07124) 
+by Burak Himmetoglu.  We present an application of the boosted regression tree algorithm for predicting ground state energies of molecules made up of C, H, N, O, P, and S (CHNOPS). The PubChem chemical compound database has been incorporated to construct a dataset of 16,242 molecules, whose electronic ground state energies have been computed using density functional theory.
+
 
 ## Videos
 - [Careers in Bioinformatics and Precision Medicine - Career Development Week](https://youtu.be/UuSFWlohYEg): by Semyon Kruglyak. Precision medicine integrates molecular and clinical research with patient data and outcomes, aiming to place the patient at the center of all elements. In this emerging field, bioinformatics is a core technology. Learn how bioinformatics has evolved to deal with Next Gen Sequencing data and explore new career opportunities for biomedical and clinical researchers. Recorded on 03/25/2014.
@@ -85,15 +95,6 @@ Transcription Start Sites (TSS) and show that a model trained on one organism (e
 human) can be used to predict TSS in a different specie (e.g. mouse)
 
 
-## Subject definitions
-
-- [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology): Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
-
-- [Genomics wikipedia](https://en.wikipedia.org/wiki/Genomics) Genomics is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules. In turn, proteins make up body 
-
-## Links
-- [Tree based machine learning framework for predicting ground state energies of molecules ](https://arxiv.org/abs/1609.07124) 
-by Burak Himmetoglu.  We present an application of the boosted regression tree algorithm for predicting ground state energies of molecules made up of C, H, N, O, P, and S (CHNOPS). The PubChem chemical compound database has been incorporated to construct a dataset of 16,242 molecules, whose electronic ground state energies have been computed using density functional theory.
 
 ## Data Sets
 - [Google genomics data sets](https://cloud.google.com/genomics/docs/public-datasets/) Cloud Genomics provides a variety of public datasets that you can access for free and integrate into your applications. Google hosts these datasets, providing public access to the data.
