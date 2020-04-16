@@ -58,7 +58,7 @@ research, as well as pointing out current challenges and potential research dire
 future genomics applications.
 
 
-- [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5.epdf?no_publisher_access=1&r3_referer=nature) Behind paywall. Associated with colabratory notebook:
+- [A primer on deep learning in genomics](./zou2018primer.pdf) Associated with colabratory notebook:
   - [A Primer on Deep Learning in Genomics - Public.ipynb](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr#scrollTo=eiiwjw4yhX0P)
 
 - [Genome Functional Annotation using Deep Convolutional
