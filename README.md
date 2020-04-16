@@ -58,11 +58,32 @@ research, as well as pointing out current challenges and potential research dire
 future genomics applications.
 
 
-- [A primer on deep learning in genomics](./zou2018primer.pdf) Associated with colabratory notebook:
-  - [A Primer on Deep Learning in Genomics - Public.ipynb](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr#scrollTo=eiiwjw4yhX0P)
+- [A primer on deep learning in genomics](./zou2018primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
+sets. Here, we provide a perspective and primer on deep learning applications for genome analysis. We discuss successful
+applications in the fields of regulatory genomics, variant calling and pathogenicity scores. We include general guidance for how
+to effectively use deep learning methods as well as a practical guide to tools and resources. This primer is accompanied by an
+interactive online tutorial.
+
+
+  - Associated with colabratory notebook:[A Primer on Deep Learning in Genomics - Public.ipynb](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr#scrollTo=eiiwjw4yhX0P)
 
 - [Genome Functional Annotation using Deep Convolutional
-Neural Network](https://www.biorxiv.org/content/biorxiv/early/2018/05/25/330308.full.pdf)
+Neural Network](https://www.biorxiv.org/content/biorxiv/early/2018/05/25/330308.full.pdf) by 
+Ghazaleh Khodabandelou
+, Etienne Routhier and Julien Mozziconacci. In genomics, which deals with DNA sequences, the development of deep
+neural networks is expected to revolutionize current practice, from fundamental issues
+such as understanding the evolution of genomes to more specific applications such as
+the development of personalized medicine. Several approaches have been developed
+relying on convolution neural networks (CNN) to identify the functional role of
+sequences such as promoters, enhancers or protein binding sites along genomes. These
+approaches rely on the generation of sequences batches with known annotations for
+learning purpose. While they show good performance to predict annotations from a test
+subset of these batches, they usually work less well when applied genome-wide; i.e. for
+whole genome annotation. In this paper, we address this issue and propose an optimal
+strategy to train CNN for this specific application. We use as a case study gene
+Transcription Start Sites (TSS) and show that a model trained on one organism (e.g.
+human) can be used to predict TSS in a different specie (e.g. mouse)
+
 
 ## Subject definitions
 
