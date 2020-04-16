@@ -12,10 +12,21 @@ This course is an introduction to computational biology emphasizing the fundamen
 ## Papers
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
 
-## Resources
+## Videos
 - [Careers in Bioinformatics and Precision Medicine - Career Development Week](https://youtu.be/UuSFWlohYEg): by Semyon Kruglyak. Precision medicine integrates molecular and clinical research with patient data and outcomes, aiming to place the patient at the center of all elements. In this emerging field, bioinformatics is a core technology. Learn how bioinformatics has evolved to deal with Next Gen Sequencing data and explore new career opportunities for biomedical and clinical researchers. Recorded on 03/25/2014.
-- [Fundamental Algorithms in Deep Sequencing I](http://bioinformaticsalgorithms.com/)
-- [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
+
+- [From the Human Genome Project to Precision Medicine: A Journey to Advance Human Health](https://www.youtube.com/watch?v=M9OGNXwCq3c):by Eric D. Green, Director, National Human Genome Research Institute. Dr. Green is the founding director of the NIH Intramural Sequencing Center (1997-2009). Prior to that, he played an integral role in the Human Genome Project.
+
+
+## Resources
+
+### Bioinformatics as taught by Conpeau and Pevzner
+
+- [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
+   - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
+   - [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
+  
+
 - [Rosalind](http://rosalind.info/problems/locations): Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
 ## Current Reading list, Summer 2019
