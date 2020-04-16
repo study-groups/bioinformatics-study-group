@@ -9,7 +9,16 @@ This is a self-study guide for learning genomic signal processing. Before we can
 
 - [Genomics wikipedia](https://en.wikipedia.org/wiki/Genomics) Genomics is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules.
 
-# Start here
+
+## Videos
+
+- [Careers in Bioinformatics and Precision Medicine - Career Development Week](https://youtu.be/UuSFWlohYEg): by Semyon Kruglyak. Precision medicine integrates molecular and clinical research with patient data and outcomes, aiming to place the patient at the center of all elements. In this emerging field, bioinformatics is a core technology. Learn how bioinformatics has evolved to deal with Next Gen Sequencing data and explore new career opportunities for biomedical and clinical researchers. Recorded on 03/25/2014.
+
+- [From the Human Genome Project to Precision Medicine: A Journey to Advance Human Health](https://www.youtube.com/watch?v=M9OGNXwCq3c):by Eric D. Green, Director, National Human Genome Research Institute. Dr. Green is the founding director of the NIH Intramural Sequencing Center (1997-2009). Prior to that, he played an integral role in the Human Genome Project.
+
+
+# Start here for serious study
+
 - MIT Open Courseware's [Foundations of Computational And-Systems Biology, Spring 2014](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/index.htm). 
 This course is an introduction to computational biology emphasizing the fundamentals of nucleic acid and protein sequence and structural analysis; it also includes an introduction to the analysis of complex biological systems. Topics covered in the course include principles and methods used for sequence alignment, motif finding, structural modeling, structure prediction and network modeling, as well as currently emerging research areas. [Video Lectures](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video-lectures/)
 
@@ -25,22 +34,6 @@ Protein modeling is an increasingly popular area of machine learning research. S
 - [Tree based machine learning framework for predicting ground state energies of molecules ](https://arxiv.org/abs/1609.07124) 
 by Burak Himmetoglu.  We present an application of the boosted regression tree algorithm for predicting ground state energies of molecules made up of C, H, N, O, P, and S (CHNOPS). The PubChem chemical compound database has been incorporated to construct a dataset of 16,242 molecules, whose electronic ground state energies have been computed using density functional theory.
 
-
-## Videos
-- [Careers in Bioinformatics and Precision Medicine - Career Development Week](https://youtu.be/UuSFWlohYEg): by Semyon Kruglyak. Precision medicine integrates molecular and clinical research with patient data and outcomes, aiming to place the patient at the center of all elements. In this emerging field, bioinformatics is a core technology. Learn how bioinformatics has evolved to deal with Next Gen Sequencing data and explore new career opportunities for biomedical and clinical researchers. Recorded on 03/25/2014.
-
-- [From the Human Genome Project to Precision Medicine: A Journey to Advance Human Health](https://www.youtube.com/watch?v=M9OGNXwCq3c):by Eric D. Green, Director, National Human Genome Research Institute. Dr. Green is the founding director of the NIH Intramural Sequencing Center (1997-2009). Prior to that, he played an integral role in the Human Genome Project.
-
-
-## Resources
-
-- [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
-   - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
-   - [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
-  
-- [Rosalind](http://rosalind.info/problems/locations): Rosalind is a platform for learning bioinformatics and programming through problem solving.
-
-## Current Reading list, Summer 2020
 
 - [IEEE Spectrum article: Genomics Signal Processing](https://pdfs.semanticscholar.org/eb87/1f4b1840e9357a78df2a1809161dbbee4796.pdf): 
 by Dimitris Anastassiou. Genomic information is digital in a very real sense; it is
@@ -94,7 +87,13 @@ strategy to train CNN for this specific application. We use as a case study gene
 Transcription Start Sites (TSS) and show that a model trained on one organism (e.g.
 human) can be used to predict TSS in a different specie (e.g. mouse)
 
+## Resources
 
+- [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
+   - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
+   - [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
+  
+- [Rosalind](http://rosalind.info/problems/locations): Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
 ## Data Sets
 - [Google genomics data sets](https://cloud.google.com/genomics/docs/public-datasets/) Cloud Genomics provides a variety of public datasets that you can access for free and integrate into your applications. Google hosts these datasets, providing public access to the data.
