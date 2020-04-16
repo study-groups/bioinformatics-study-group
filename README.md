@@ -90,7 +90,7 @@ Transcription Start Sites (TSS) and show that a model trained on one organism (e
 human) can be used to predict TSS in a different specie (e.g. mouse)
 
 ## Resources
-- - [Glossary of Next Gen Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html): terms used in in NGS. Video overview: [NGS for beginners](https://www.illumina.com/science/technology/next-generation-sequencing/beginners.html).
+- [Glossary of Next Gen Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html): terms used in in NGS defined by Illumina. Video overview: [NGS for beginners](https://www.illumina.com/science/technology/next-generation-sequencing/beginners.html).
 
 - [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
    - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
