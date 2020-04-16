@@ -4,13 +4,15 @@ This is a self-study guide for learning genomic signal processing. Before we can
 
 
 ## Subject definitions
+- [DNA Sequencing](https://en.wikipedia.org/wiki/DNA_sequencing) is the process of determining the nucleic acid sequence – the order of nucleotides in DNA. It includes any method or technology that is used to determine the order of the four bases: adenine, guanine, cytosine, and thymine. The advent of rapid DNA sequencing methods has greatly accelerated biological and medical research and discovery.
+
+- [Sanger Sequencing](https://en.wikipedia.org/wiki/Sanger_sequencing) is a method of DNA sequencing. Developed by Frederick Sanger and colleagues in 1977, it was the most widely used sequencing method for approximately 40 years.  More recently, higher volume Sanger sequencing has been replaced by ["Next-Gen" sequencing methods](https://www.illumina.com/content/dam/illumina-marketing/documents/products/illumina_sequencing_introduction.pdf).
+
 - [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology): Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
 
 - [Genomics wikipedia](https://en.wikipedia.org/wiki/Genomics) Genomics is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules.
 
 - [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Owing to the defining role of DNA in the production of mRNA, the structural characterization of DNA is inevitably a part of GSP and, interestingly, signal processing methods are utilized in understanding DNA structure.
-
-- [Glossary of Next Gen Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html): terms used in in NGS. Video overview: [NGS for beginners](https://www.illumina.com/science/technology/next-generation-sequencing/beginners.html).
 
 ## Videos
 
@@ -88,6 +90,7 @@ Transcription Start Sites (TSS) and show that a model trained on one organism (e
 human) can be used to predict TSS in a different specie (e.g. mouse)
 
 ## Resources
+- - [Glossary of Next Gen Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html): terms used in in NGS. Video overview: [NGS for beginners](https://www.illumina.com/science/technology/next-generation-sequencing/beginners.html).
 
 - [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
    - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
@@ -103,4 +106,6 @@ human) can be used to predict TSS in a different specie (e.g. mouse)
 
 ## Companies
 
-- [Tempus](https://www.tempus.com/) Tempus is a technology company that has built the world’s largest library of clinical and molecular data and an operating system to make that data accessible and useful, starting with cancer. Our goal is for each patient to benefit from the treatment of others who came before.
+- [Tempus](https://www.tempus.com/) is a technology company that has built the world’s largest library of clinical and molecular data and an operating system to make that data accessible and useful, starting with cancer. Our goal is for each patient to benefit from the treatment of others who came before.
+
+- [Illumina](https://www.illumina.com/company/about-us/fact-sheet.html) is a leading developer, manufacturer, and marketer of life science tools and integrated systems for large-scale analysis of genetic variation and function. These systems are enabling studies that were not even imaginable just a few years ago, and moving us closer to the realization of personalized medicine. With rapid advances in technology taking place, it is mission-critical to offer solutions that are not only innovative, but flexible, and scalable, with industry-leading support and service.
