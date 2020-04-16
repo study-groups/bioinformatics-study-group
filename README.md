@@ -4,6 +4,7 @@ This is a self-study guide for learning genomic signal processing. Before we can
 
 
 ## Subject definitions
+- [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Owing to the defining role of DNA in the production of mRNA, the structural characterization of DNA is inevitably a part of GSP and, interestingly, signal processing methods are utilized in understanding DNA structure.
 
 - [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology): Systems biology is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
 
