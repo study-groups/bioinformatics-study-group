@@ -1,6 +1,14 @@
-# genomics-study-group
+# bioinformatics-study-group
 
-This is a self-study guide for learning genomic signal processing. Before we can learn GSP, we must understand the foundations of information theory and sequential sequence procesing- the fundamentals upon which genomic data science is based.
+Check out [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) for an introduction to the field of applied bioinformatics.
+
+This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
+
+The fundamentals of bioinformatic data science is based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](https://github.com/study-groups/bioinformatics-study-group/papers/2007-BootstrapParticleFilteringSPMagCandy).
+
+The Rosalind project provides challenge problems as described by [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) by Phillip Compeau and Pavel Pevzner.
+
+
 
 
 ## Subject definitions
@@ -115,8 +123,8 @@ human) can be used to predict TSS in a different specie (e.g. mouse)
 - [Glossary of Next Gen Sequencing](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/glossary.html): terms used in in NGS defined by Illumina. Video overview: [NGS for beginners](https://www.illumina.com/science/technology/next-generation-sequencing/beginners.html).
 
 - [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/): Book and methodology by Phillip Compeau and Pavel Pevzner. Great.
-   - [Bioinformatics I: Finding Hidden Messages in DNA at Stepik](https://stepik.org/course/55929/promo#toc): by Phillip Compeau and Pavel Pevzner. The first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin? We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome.
-   - [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
+
+ - [DNA Analysis on Coursera by Pavel Pevzner and Phillip Compeau](https://www.coursera.org/learn/dna-analysis): 8 part course on DNA statistics.
   
 - [Rosalind](http://rosalind.info/problems/locations): Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
