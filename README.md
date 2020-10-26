@@ -51,9 +51,11 @@ Bioinformatics as taught by Pavel Pevzner and Phillip Compeau of California San 
 
 - [Bioinformatics VI: Finding Mutations in DNA and Proteins](https://www.coursera.org/learn/dna-mutations): This course will cover advanced topics in finding mutations lurking within DNA and proteins. The approach we will use is based on a powerful machine learning tool called a hidden Markov model.
 
-## Online courses
+## Other online courses
 
 - [DIY Transcriptomics](http://diytranscriptomics.com/): A virtual asynchronous course covering best practices for RNAseq data analysis, uses R/bioconductor environment.
+
+- [RNA-Seq with Bioconductor in R](https://www.datacamp.com/courses/rna-seq-with-bioconductor-in-r): We will start the course with a brief overview of the RNA-Seq workflow with an emphasis on [differential expression (DE) analysis](https://bioconductor.org/packages/release/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html).  The DESeq2 R package will be used to model the count data using a negative binomial model and test for differentially expressed genes.
 
 ## Papers
 
