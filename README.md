@@ -62,6 +62,9 @@ Protein modeling is an increasingly popular area of machine learning research. S
 
 - [2000-FrequencyDomainAnalysisOfBiomolecularSequencesAnastassiou](./papers/2000-FrequencyDomainAnalysisOfBiomolecularSequencesAnastassiou.pdf): by Dimitiris Anastassiou. Applies DFT to RNA to distinguish coding from non-conding regions in DNA sequences.
 
+- [RNA sequencing data: hitchhiker's guide
+to expression analysis](./papers/2018-RnaSequencingDataHitchhikersGuideLoveEtal.pdf) Gene expression is the fundamental level at which the result of various genetic and regulatory programs are observable. The measurement of transcriptome­wide gene expression has convincingly switched from microarrays to sequencing in a matter of years. RNA sequencing (RNA­seq) provides a quantitative and open system for profiling transcriptional outcomes on a large scale and therefore facilitates a large diversity of applications, including basic science studies, but also agricultural or clinical situations.
+
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
 
 - [Tree based machine learning framework for predicting ground state energies of molecules ](https://arxiv.org/abs/1609.07124) 
@@ -94,7 +97,7 @@ research, as well as pointing out current challenges and potential research dire
 future genomics applications.
 
 
-- [A primer on deep learning in genomics](./papers/zou2018primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
+- [A primer on deep learning in genomics](./papers/2018-Zou-Primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
 sets. Here, we provide a perspective and primer on deep learning applications for genome analysis. We discuss successful
 applications in the fields of regulatory genomics, variant calling and pathogenicity scores. We include general guidance for how
 to effectively use deep learning methods as well as a practical guide to tools and resources. This primer is accompanied by an interactive online tutorial.
