@@ -35,9 +35,7 @@ This course is an introduction to computational biology emphasizing the fundamen
 
 ## Coursera
 
-
 Bioinformatics as taught by Pavel Pevzner and Phillip Compeau of California San Diego.
-
 
 - [Bioinformatics I: Finding Hidden Messages in DNA](https://www.coursera.org/learn/dna-analysis): In the first half of the course, we investigate DNA replication, and ask the question, where in the genome does DNA replication begin?  We will see that we can answer this question for many bacteria using only some straightforward algorithms to look for hidden messages in the genome. In the second half of the course, we examine a different biological question, when we ask which DNA patterns play the role of molecular clocks.  The cells in your body manage to maintain a circadian rhythm, but how is this achieved on the level of DNA? 
 
@@ -51,7 +49,7 @@ Bioinformatics as taught by Pavel Pevzner and Phillip Compeau of California San 
 
 - [Bioinformatics VI: Finding Mutations in DNA and Proteins](https://www.coursera.org/learn/dna-mutations): This course will cover advanced topics in finding mutations lurking within DNA and proteins. The approach we will use is based on a powerful machine learning tool called a hidden Markov model.
 
-## Other online courses
+### Other online courses
 
 - [DIY Transcriptomics](http://diytranscriptomics.com/): A virtual asynchronous course covering best practices for RNAseq data analysis, uses R/bioconductor environment.
 
@@ -60,9 +58,9 @@ Bioinformatics as taught by Pavel Pevzner and Phillip Compeau of California San 
 ## Papers
 
 - [Evaluating Protein Transfer Learning with TAPE](https://www.biorxiv.org/content/10.1101/676825v1): by Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song. 
-Protein modeling is an increasingly popular area of machine learning research. Semi-supervised learning has emerged as an important paradigm in protein modeling due to the high cost of acquiring supervised protein labels, but the current literature is fragmented when it comes to datasets and standardized evaluation techniques. To facilitate progress in this field, we introduce the Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology. We curate tasks into specific training, validation, and test splits to ensure that each task tests biologically relevant generalization that transfers to real-life scenarios. We bench-mark a range of approaches to semi-supervised protein representation learning, which span recent work as well as canonical sequence learning techniques. We find that self-supervised pretraining is helpful for almost all models on all tasks, more than doubling performance in some cases. Despite this increase, in several cases features learned by self-supervised pretraining still lag behind features extracted by state-of-the-art non-neural techniques. This gap in performance suggests a huge opportunity for innovative architecture design and improved modeling paradigms that better capture the signal in biological sequences. TAPE will help the machine learning community focus effort on scientifically relevant problems. Toward this end, all data and code used to run these experiments are available at [tape repo](https://github.com/songlab-cal/tape).
+Protein modeling is an increasingly popular area of machine learning research. Semi-supervised learning has emerged as an important paradigm in protein modeling due to the high cost of acquiring supervised protein labels, but the current literature is fragmented when it comes to datasets and standardized evaluation techniques. To facilitate progress in this field, we introduce the Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology. We curate tasks into specific training, validation, and test splits to ensure that each task tests biologically relevant generalization that transfers to real-life scenarios. Available at [tape repo](https://github.com/songlab-cal/tape).
 
-
+- [2000-FrequencyDomainAnalysisOfBiomolecularSequencesAnastassiou](./papers/2000-FrequencyDomainAnalysisOfBiomolecularSequencesAnastassiou.pdf): by Dimitiris Anastassiou. Applies DFT to RNA to distinguish coding from non-conding regions in DNA sequences.
 
 - [2001 A computational analysis of sequence features involved in recognition of short introns](https://www.pnas.org/content/98/20/11193) by Lim and Burge. "Splicing of short introns by the nuclear pre-mRNA splicing machinery is thought to proceed via an “intron definition” mechanism, in which the 5′ and 3′ splice sites (5′ss, 3′ss, respectively) are initially recognized and paired across the intron. Here, we describe a computational analysis of sequence features involved in recognition of short introns by using available transcript data from five eukaryotes with complete or nearly complete genomic sequences." Complete [PDF](https://www.pnas.org/content/pnas/98/20/11193.full.pdf)
 
@@ -140,3 +138,5 @@ human) can be used to predict TSS in a different specie (e.g. mouse)
 - [Tempus](https://www.tempus.com/) is a technology company that has built the world’s largest library of clinical and molecular data and an operating system to make that data accessible and useful, starting with cancer. Our goal is for each patient to benefit from the treatment of others who came before.
 
 - [Illumina](https://www.illumina.com/company/about-us/fact-sheet.html) is a leading developer, manufacturer, and marketer of life science tools and integrated systems for large-scale analysis of genetic variation and function. These systems are enabling studies that were not even imaginable just a few years ago, and moving us closer to the realization of personalized medicine. With rapid advances in technology taking place, it is mission-critical to offer solutions that are not only innovative, but flexible, and scalable, with industry-leading support and service.
+
+- [Just Add Data](https://www.jadbio.com/): Machine Learning for Bioinformatics at a small start up in Greece. 
