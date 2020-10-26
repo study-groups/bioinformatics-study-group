@@ -1,13 +1,12 @@
 # bioinformatics-study-group
 
-Check out [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) for an introduction to the field of applied bioinformatics.
+This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
 
-This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
-
-The fundamentals of bioinformatic data science is based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](https://github.com/study-groups/bioinformatics-study-group/papers/2007-BootstrapParticleFilteringSPMagCandy).
+The fundamentals of bioinformatic data science is based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
 
 The Rosalind project provides challenge problems as described by [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) by Phillip Compeau and Pavel Pevzner.
 
+Check out [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) for an introduction to the field of applied bioinformatics.
 
 
 
@@ -95,7 +94,7 @@ research, as well as pointing out current challenges and potential research dire
 future genomics applications.
 
 
-- [A primer on deep learning in genomics](./zou2018primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
+- [A primer on deep learning in genomics](./papers/zou2018primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
 sets. Here, we provide a perspective and primer on deep learning applications for genome analysis. We discuss successful
 applications in the fields of regulatory genomics, variant calling and pathogenicity scores. We include general guidance for how
 to effectively use deep learning methods as well as a practical guide to tools and resources. This primer is accompanied by an interactive online tutorial.
