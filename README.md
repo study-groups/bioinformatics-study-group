@@ -2,7 +2,7 @@
 
 This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
 
-The fundamentals of bioinformatic data science is based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
+The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
 
 The Rosalind project provides challenge problems as described by [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) by Phillip Compeau and Pavel Pevzner.
 
