@@ -1,4 +1,4 @@
-# bioinformatics-study-group
+# genomics-study-group
 
 This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
 
