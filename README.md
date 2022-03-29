@@ -1,5 +1,7 @@
 # genomics-study-group
 
+
+
 This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
 
 The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
@@ -8,7 +10,9 @@ The [Rosalind](http://rosalind.info/problems/tree-view/) project provides challe
 
 Check out [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) for an introduction to the field of applied bioinformatics.
 
+## 2022 Currently Reviewing:
 
+- [Brown, CS 181: Computational Molecular Biology](http://cs.brown.edu/courses/cs181/lectures.html): decent college level course on DNA sequencing.
 
 ## Subject definitions
 - [DNA Sequencing](https://en.wikipedia.org/wiki/DNA_sequencing) is the process of determining the nucleic acid sequence – the order of nucleotides in DNA. It includes any method or technology that is used to determine the order of the four bases: adenine, guanine, cytosine, and thymine. The advent of rapid DNA sequencing methods has greatly accelerated biological and medical research and discovery.
