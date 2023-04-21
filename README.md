@@ -3,17 +3,20 @@
 
 This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
 
+The StatQuest video [A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) by Josh Starmer is a good introduction to the field of applied bioinformatics, specifically indentifying and relating sequences of base pairs from [PCR](https://www.youtube.com/watch?v=7beN35g5xuM).
+
+Gene folding is more complex, [Demis Hassabis of Deep Mind](https://lexfridman.com/demis-hassabis/) frames the next 50 years of work. For technical background, [Principles of protein folding--a perspective from simple exact models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2143098) is a decent 
+technincal starting place.
+
+
 A practical nexus of gene sequencing and protien folding is the the [Blast site at Ncbi](https://blast.ncbi.nlm.nih.gov/Blast.cgi). This is a [good video](https://youtu.be/WRKQGwh_Mw0) that explains the Blast site.
 
 The [Rosalind](http://rosalind.info/problems/tree-view/) project provides challenge problems as described by [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) by Phillip Compeau and Pavel Pevzner.
 
-Check out [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) for an introduction to the field of applied bioinformatics.
 
-
-htt
 ## 2023 Currently Reviewing:
 
-- ps://github.com/lucacareddu/Comparing-node-embedding-methods-and-classifiers-for-predicting-disease-genes
+- [Node embedding for Predictin Disease Genes](https://github.com/lucacareddu/Comparing-node-embedding-methods-and-classifiers-for-predicting-disease-genes)
 
 - [Brown, CS 181: Computational Molecular Biology](http://cs.brown.edu/courses/cs181/lectures.html): decent college level course on DNA sequencing.
 
@@ -26,7 +29,7 @@ htt
 
 - [Genomics](https://en.wikipedia.org/wiki/Genomics) is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules.
 
-- [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Owing to the defining role of DNA in the production of mRNA, the structural characterization of DNA is inevitably a part of GSP and, interestingly, signal processing methods are utilized in understanding DNA structure.
+- [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Clever formalization by D. Anastassiou, [Genomic Signal Processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf)
 
 ## Videos
 
@@ -64,7 +67,7 @@ Bioinformatics as taught by Pavel Pevzner and Phillip Compeau of California San 
 
 ## Papers
 
-- [Evaluating Protein Transfer Learning with TAPE](https://www.biorxiv.org/content/10.1101/676825v1): by Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song. 
+- [Evaluating Protein Transfer Learning with TAPE](https://www.biorxiv.org/content/10.1101/676825v1): 
 Protein modeling is an increasingly popular area of machine learning research. Semi-supervised learning has emerged as an important paradigm in protein modeling due to the high cost of acquiring supervised protein labels, but the current literature is fragmented when it comes to datasets and standardized evaluation techniques. To facilitate progress in this field, we introduce the Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology. We curate tasks into specific training, validation, and test splits to ensure that each task tests biologically relevant generalization that transfers to real-life scenarios. Available at [tape repo](https://github.com/songlab-cal/tape).
 
 - [2000-FrequencyDomainAnalysisOfBiomolecularSequencesAnastassiou](./papers/2000-FrequencyDomainAnalysisOfBiomolecularSequencesAnastassiou.pdf): by Dimitiris Anastassiou. Applies DFT to RNA to distinguish coding from non-conding regions in DNA sequences.
@@ -86,22 +89,7 @@ can be one out of a finite number of entities.
 - [Deep Learning for Genomics: A Concise Overview](https://arxiv.org/pdf/1802.00810.pdf) Tianwei Yue tyue@andrew.cmu.edu
 Haohan Wang haohanw@cs.cmu.edu
 School of Computer Science
-Carnegie Mellon University
-Pittsburgh, PA 15213, USA
-Abstract
-This data explosion driven by advancements in genomic research, such as high-throughput
-sequencing techniques, is constantly challenging conventional methods used in genomics.
-In parallel with the urgent demand for robust algorithms, deep learning has succeeded
-in a variety of fields such as vision, speech, and text processing. Yet genomics entails
-unique challenges to deep learning since we are expecting from deep learning a superhuman
-intelligence that explores beyond our knowledge to interpret the genome. A powerful deep
-learning model should rely on insightful utilization of task-specific knowledge. In this
-paper, we briefly discuss the strengths of different deep learning models from a genomic
-perspective so as to fit each particular task with a proper deep architecture, and remark on
-practical considerations of developing modern deep learning architectures for genomics. We
-also provide a concise review of deep learning applications in various aspects of genomic
-research, as well as pointing out current challenges and potential research directions for
-future genomics applications.
+Carnegie Mellon. The paper explores how deep learning can address challenges in analyzing genomic data, which is becoming increasingly complex with advancements in high-throughput sequencing techniques. The authors discuss the need for task-specific knowledge to develop deep learning models for genomics and provide a review of deep learning applications in various aspects of genomic research. They also highlight current challenges and potential research directions for future genomics applications.
 
 
 - [A primer on deep learning in genomics](./papers/2018-Zou-Primer.pdf)  by James Zou et. al. Deep learning methods are a class of machine learning techniques capable of identifying highly complex patterns in large data-
@@ -144,6 +132,9 @@ human) can be used to predict TSS in a different specie (e.g. mouse)
 - [HCA](https://mloss.org/software/title/?page=11) Multi-core non-parametric and bursty topic models (HDP-LDA, DCMLDA, and other variants of LDA) implemented in C using efficient Gibbs sampling, with hyperparameter sampling and other flexible controls.
 
 ## Companies
+
+- [Insitro](https://insitro.com/): biology at scale, started by Daphne Koller
+who started Coursea and taught [Probabilistic Graphical Methods](https://www.coursera.org/instructor/koller).
 
 - [Tempus](https://www.tempus.com/) is a technology company that has built the world’s largest library of clinical and molecular data and an operating system to make that data accessible and useful, starting with cancer. Our goal is for each patient to benefit from the treatment of others who came before.
 
