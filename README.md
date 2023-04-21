@@ -1,7 +1,7 @@
 # genomics-study-group
 
 
-This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
+This is a self-study guide for learning [genomics](https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics). The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
 
 The StatQuest video [A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) by Josh Starmer is a good introduction to the field of applied bioinformatics, specifically indentifying and relating sequences of base pairs from [PCR](https://www.youtube.com/watch?v=7beN35g5xuM).
 
@@ -13,10 +13,11 @@ A practical nexus of gene sequencing and protien folding is the the [Blast site 
 
 The [Rosalind](http://rosalind.info/problems/tree-view/) project provides challenge problems as described by [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) by Phillip Compeau and Pavel Pevzner.
 
+Transformers are at the heart of everything. Here is DeepMind's [AlphaFold 2 Explained](https://www.youtube.com/watch?v=B9PL__gVxLI) by Y. Kikcher.
 
 ## 2023 Currently Reviewing:
 
-- [Node embedding for Predictin Disease Genes](https://github.com/lucacareddu/Comparing-node-embedding-methods-and-classifiers-for-predicting-disease-genes)
+- [Node embedding for Predictin Disease Genes](https://github.com/lucacareddu/Comparing-node-embedding-methods-and-classifiers-for-predicting-disease-genes):  Python code of the work done for the masters project "Learning from Networks". Uses Karate Klub for graph embeddings.
 
 - [Brown, CS 181: Computational Molecular Biology](http://cs.brown.edu/courses/cs181/lectures.html): decent college level course on DNA sequencing.
 
