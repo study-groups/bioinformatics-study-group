@@ -1,16 +1,19 @@
 # genomics-study-group
 
 
+This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
 
-This is a self-study guide for learning [genomic signal processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf). 
-
-The fundamentals of bioinformatic data science are based on [information theory](https://bioinformaticshome.com/bioinformatics_tutorials/sequence_alignment/introduction_to_information_theory.html)  and [sequential sequence processing](./papers/2007-BootstrapParticleFilteringSPMagCandy.pdf).
+A practical nexus of gene sequencing and protien folding is the the [Blast site at Ncbi](https://blast.ncbi.nlm.nih.gov/Blast.cgi). This is a [good video](https://youtu.be/WRKQGwh_Mw0) that explains the Blast site.
 
 The [Rosalind](http://rosalind.info/problems/tree-view/) project provides challenge problems as described by [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) by Phillip Compeau and Pavel Pevzner.
 
 Check out [StatQuest: A gentle introduction to RNA-seq](https://www.youtube.com/watch?v=tlf6wYJrwKY) for an introduction to the field of applied bioinformatics.
 
-## 2022 Currently Reviewing:
+
+htt
+## 2023 Currently Reviewing:
+
+- ps://github.com/lucacareddu/Comparing-node-embedding-methods-and-classifiers-for-predicting-disease-genes
 
 - [Brown, CS 181: Computational Molecular Biology](http://cs.brown.edu/courses/cs181/lectures.html): decent college level course on DNA sequencing.
 
