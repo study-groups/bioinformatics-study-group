@@ -2,11 +2,9 @@
 
 ## Current focus
 
+- [Genomic Signal Processing](https://nodeholder.notion.site/Genomic-Signal-Processing-eb48c90f0f6d49a481bc498421879d64)
 
 - [The future of biotech by Tony Kulesa](https://www.notion.so/nodeholder/The-future-of-biotech-is-founder-led-by-Tony-Kulesa-afe418dc14874d5cbf431568dbb26fd6?pvs=4)
-
-- [Genomic Signal Processing](https://nodeholder.notion.site/Genomic-Signal-Processing-eb48c90f0f6d49a481bc498421879d64): mapping base pairs is like QAM modulation.
-
 
 # Biotechnology Fields Overview
 
