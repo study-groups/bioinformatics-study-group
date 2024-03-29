@@ -1,0 +1,12 @@
+# Biotechnology Vocabulary
+
+## Subject definitions
+- [DNA Sequencing](https://en.wikipedia.org/wiki/DNA_sequencing) is the process of determining the nucleic acid sequence – the order of nucleotides in DNA. It includes any method or technology that is used to determine the order of the four bases: adenine, guanine, cytosine, and thymine. The advent of rapid DNA sequencing methods has greatly accelerated biological and medical research and discovery.
+
+- [Sanger Sequencing](https://en.wikipedia.org/wiki/Sanger_sequencing) is a method of DNA sequencing. Developed by Frederick Sanger and colleagues in 1977, it was the most widely used sequencing method for approximately 40 years.  More recently, higher volume Sanger sequencing has been replaced by ["Next-Gen" sequencing methods](https://www.illumina.com/content/dam/illumina-marketing/documents/products/illumina_sequencing_introduction.pdf).
+
+- [Systems Biology](https://en.wikipedia.org/wiki/Systems_biology) is the computational and mathematical modeling of complex biological systems. It is a biology-based interdisciplinary field of study that focuses on complex interactions within biological systems, using a holistic approach (holism instead of the more traditional reductionism) to biological research.
+
+- [Genomics](https://en.wikipedia.org/wiki/Genomics) is an interdisciplinary field of science focusing on the structure, function, evolution, mapping, and editing of genomes. A genome is an organism's complete set of DNA, including all of its genes. In contrast to genetics, which refers to the study of individual genes and their roles in inheritance, genomics aims at the collective characterization and quantification of genes, which direct the production of proteins with the assistance of enzymes and messenger molecules.
+
+- [Genomic Signal Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2766787/): defined by Edward Dougherty. Genomic Signal Processing (GSP) has been defined as the analysis, processing, and use of genomic signals for gaining biological knowledge and the translation of that knowledge into systems-based applications, where by genomic signals we mean the measurable events, principally the production of mRNA and protein carried out within the cell. Clever formalization by D. Anastassiou, [Genomic Signal Processing](https://github.com/study-groups/bioinformatics-study-group/tree/main/papers/2001-Genomic-Signal-Processing-Anastassiou.pdf)
