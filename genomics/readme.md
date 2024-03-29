@@ -1,7 +1,7 @@
 # genomics-study-group
 
 
-This is a self-study guide for learning [genomics](https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics), a sub-discipline of [biotechnology](./biotech.md).
+This is a self-study guide for learning [genomics](https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics), a sub-discipline of [biotechnology](../README.md).
 
 Current focus is on [Genomic Signal Processing](https://nodeholder.notion.site/Genomic-Signal-Processing-eb48c90f0f6d49a481bc498421879d64)
 
