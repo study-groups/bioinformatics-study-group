@@ -1,3 +1,13 @@
+# Biotechnology
+
+## Current focus
+
+
+- [The future of biotech by Tony Kulesa](https://www.notion.so/nodeholder/The-future-of-biotech-is-founder-led-by-Tony-Kulesa-afe418dc14874d5cbf431568dbb26fd6?pvs=4)
+
+- [Genomic Signal Processing](https://nodeholder.notion.site/Genomic-Signal-Processing-eb48c90f0f6d49a481bc498421879d64): mapping base pairs is like QAM modulation.
+
+
 # Biotechnology Fields Overview
 
 This document provides a concise overview of various fields within biotechnology, highlighting their focus areas and key aspects. Biotechnology encompasses a broad range of disciplines that apply biological and engineering principles to solve problems and create innovative technologies. Below is a table summarizing ten significant fields within biotechnology, aiming to serve as a foundational reference for further exploration.
